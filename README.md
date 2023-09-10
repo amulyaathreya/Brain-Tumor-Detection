@@ -1,1 +1,1 @@
-# Brain-Tumor-Detection
+A machine learning model that can accurately identify the presence of brain tumors in medical images like MRI scans. Leveraging the power of deep learning techniques, your project contributes to early and precise diagnosis, potentially improving patient outcomes and treatment planning in the medical field.
